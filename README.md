@@ -1,7 +1,7 @@
-### 👋 Hi there, welcome to my profile!<br><br>
+### 👋 Hi there, welcome to my profile!
 I’m a **Software Engineering student** at Universidad Rey Juan Carlos (URJC, Madrid), currently in my third year.<br>
 My studies have provided me with a strong foundation in mathematics, programming, and algorithms, while also giving me a deep understanding of the software development lifecycle, from design and architecture to quality and security.<br><br>
-I’m especially passionate about Artificial Intelligence (neural networks) and algorithmic problem solving. I’ve also participated in competitive programming contests, such as ADAByron 2025 (Madrid), where I challenged myself in advanced algorithm design and optimization.<br><br>
+I’m especially passionate about Artificial Intelligence (neural networks) and algorithmic problem solving. I’ve also participated in competitive programming contests, such as ADAByron 2025 (Madrid), where I challenged myself in advanced algorithm design and optimization.
 
 ### 📚 Academic Background
 
